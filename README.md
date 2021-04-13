@@ -1,6 +1,8 @@
 # qmk-layer-status
 Show qmk layer keyboard status in ubuntu top bar
 
+![img](https://github.com/emielvanseveren/qmk-layer-status/blob/master/images/screenshot.png)
+
 ## Development
 
 
