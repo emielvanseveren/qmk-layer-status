@@ -1,0 +1,8 @@
+{
+  "name": "qmk-layer-status",
+  "description": "shows layer status of qmk keyboard",
+  "uuid": "qmk-layer-status@vanseveren.dev",
+  "shell-version": [
+    "3.36"
+  ]
+}
