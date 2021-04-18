@@ -1,5 +1,5 @@
 import { Extension } from './extension';
 
-export default function () {
+export default function (): any {
   return new Extension();
 }
