@@ -1,0 +1,16 @@
+{
+  "name": "qmk-layer-status",
+  "description": "shows layer status of a qmk keyboard in GNOME Shell status bar",
+  "uuid": "qmk-layer-status@vanseveren.dev",
+  "shell-version": [
+    "3.26",
+    "3.28",
+    "3.30",
+    "3.32",
+    "3.34",
+    "3.36"
+  ],
+  "settings-schema": "org.gnome.shell.extensions.qmk-layer-status",
+  "gettext-domain": "qmk-layer-status",
+  "git-version": "_gitversion_"
+}
